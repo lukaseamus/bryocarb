@@ -15,8 +15,6 @@
 # Output files from R CMD build
 /*.tar.gz
 
-
-.DS_Store
 # Output files from R CMD check
 /*.Rcheck/
 
@@ -49,3 +47,7 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+
+.DS_Store
+HEIC
